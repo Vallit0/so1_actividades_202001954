@@ -1,4 +1,3 @@
-# Operating Systems Homework
 
 | Universidad de San Carlos de Guatemala | Estuardo Sebastián Valle Bances |
 |----------------------------------------|---------------------------------|
@@ -9,7 +8,7 @@
 
 
 
-## Table of Contents
+## Tabla de Contenidos
 
 1. [Introduction](#introduction)
 2. [Tipos de Kernel](#types)
